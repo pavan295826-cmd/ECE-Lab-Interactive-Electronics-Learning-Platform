@@ -26,10 +26,6 @@ To start the development server and run on localhost:
 npm run dev
 ```
 
-The application will be available at:
-- **Local Access:** http://localhost:5173/
-
-
 To make the server accessible on your network, use:
 ```bash
 npm run dev -- --host
