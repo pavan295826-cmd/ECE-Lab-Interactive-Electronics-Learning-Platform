@@ -10,7 +10,7 @@ An interactive web-based platform for learning electronics and circuit design co
 1. Clone the repository:
 ```bash
 git clone https://github.com/pavan295826-cmd/ECE-Lab-Interactive-Electronics-Learning-Platform-Web-.git
-cd ECE-Lab-Interactive-Electronics-Learning-Platform-Web-
+cd ECE-Lab-Interactive-Electronics-Learning-Platform
 ```
 
 2. Install dependencies:
